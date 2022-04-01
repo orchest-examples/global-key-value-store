@@ -23,7 +23,7 @@
                 ]
             },
             "parameters": {},
-            "title": "",
+            "title": "Producer",
             "uuid": "59f13504-785c-43eb-b3c0-9284c7d30465"
         },
         "d9df6401-2fc7-45f7-b3a0-afcc99ce73ba": {
@@ -44,7 +44,7 @@
                 ]
             },
             "parameters": {},
-            "title": "",
+            "title": "Consumer",
             "uuid": "d9df6401-2fc7-45f7-b3a0-afcc99ce73ba"
         }
     },
