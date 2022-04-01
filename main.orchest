@@ -1,0 +1,53 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "services": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "59f13504-785c-43eb-b3c0-9284c7d30465": {
+            "environment": "9327009b-602f-49d8-a727-fee7a063fa7c",
+            "file_path": "example.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    108,
+                    290.5
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "59f13504-785c-43eb-b3c0-9284c7d30465"
+        },
+        "d9df6401-2fc7-45f7-b3a0-afcc99ce73ba": {
+            "environment": "9327009b-602f-49d8-a727-fee7a063fa7c",
+            "file_path": "example-consumer.ipynb",
+            "incoming_connections": [
+                "59f13504-785c-43eb-b3c0-9284c7d30465"
+            ],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    377,
+                    290.5
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "d9df6401-2fc7-45f7-b3a0-afcc99ce73ba"
+        }
+    },
+    "uuid": "080bd4af-10c1-4bb1-b500-22dd7bf9d519",
+    "version": "1.0.0"
+}
