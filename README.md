@@ -1,0 +1,1 @@
+This project shows how you can use SqliteDict to act a global key-value store in Orchest using the `/data` directory.
